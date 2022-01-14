@@ -86,9 +86,15 @@ li:nth-child(odd) {
 
 .list-group {
   text-align: center;
-
 }
 
 .space {
   margin-left: 6px;
+}
+
+button {
+  border: none;
+  outline: none;
+  background-color: #b7b7b7;
+  color: white;
 }
